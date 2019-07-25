@@ -23,6 +23,6 @@ article {
 
 footer {
   grid-area: footer
-  background: #32746E;
+  backgrounnd: #32746E;
   color:#fff;
 }
