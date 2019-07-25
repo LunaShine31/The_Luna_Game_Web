@@ -9,16 +9,20 @@ main{
     'aside article article'
     'aside footer footer';
   grid-gap: 30px;
+}
 
 aside {
+  grid-area: aside;
   background: #46A69D;
 }
 
 article {
+  grid-area: article;
   background: #AEDDD9;
 } 
 
 footer {
+  grid-area: footer
   background: #32746E;
   color:#fff;
 }
