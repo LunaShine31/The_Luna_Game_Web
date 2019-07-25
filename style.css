@@ -1,4 +1,16 @@
 
 header {
-  background-color:#721F95;
+  background: #46A69D;
+}
+
+aside {
+  background: #1C433F;
+}
+
+article {
+  background: #AEDDD9;
+} 
+
+footer {
+  background: #32746E;
 }
