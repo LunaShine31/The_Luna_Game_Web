@@ -5,7 +5,10 @@ header {
 
 main{
   display grid;
-  grid-template
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer';
+  grid-gap: 30px;
 
 aside {
   background: #46A69D;
