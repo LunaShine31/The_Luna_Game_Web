@@ -1,6 +1,11 @@
 
 header {
+  padding: 30px;
   background: #6DC3BB;
+  background-image: url(' https://images.unsplash.com/photo-1531390658120-e06b58d826ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%
 }
 
 main{
