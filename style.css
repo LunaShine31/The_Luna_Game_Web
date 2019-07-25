@@ -22,7 +22,7 @@ article {
 } 
 
 footer {
-  grid-area: footer
+  grid-area: footer;
   background: #32746E;
   color:#fff;
 }
