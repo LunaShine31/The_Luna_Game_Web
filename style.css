@@ -3,6 +3,10 @@ header {
   background: #6DC3BB;
 }
 
+main{
+  display grid;
+  grid-template
+
 aside {
   background: #46A69D;
 }
